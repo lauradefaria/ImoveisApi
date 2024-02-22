@@ -1,0 +1,6 @@
+@AdaTech.ImoveisApi_HostAddress = http://localhost:5133
+
+GET {{AdaTech.ImoveisApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
